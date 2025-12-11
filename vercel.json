@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "npm install && npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "NODE_VERSION": "18"
+  }
+}
